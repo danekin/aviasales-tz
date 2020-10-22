@@ -1,0 +1,7 @@
+run:
+  tests: false
+linters:
+  enable-all: true
+linters-settings:
+  gci:
+    local-prefixes: github.com/danekin/aviasales-tz
